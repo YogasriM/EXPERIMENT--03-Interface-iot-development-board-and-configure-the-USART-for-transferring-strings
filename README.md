@@ -2,11 +2,11 @@
 
 **DATE: 16/02/2026**
 
-**NAME: HARINE S**
+**NAME: YOGASRI**
 
-**ROLL NO: 212224230081**
+**ROLL NO: 212224220124**
 
-**DEPARTMENT:B.Tech(AI&DS)**
+**DEPARTMENT:B.Tech IT**
 
 ## Aim:
 
@@ -196,9 +196,9 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-	  printf("HARINE S\n");
-	  printf("212224230081\n");
-	  printf("B.TECH(AI&DS)\n");
+	  printf("yogasri\n");
+	  printf("212224220124\n");
+	  printf("B.TECH IT\n");
 	  HAL_Delay(500);
     /* USER CODE BEGIN 3 */
   }
@@ -359,7 +359,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots of Serial port utility   :
  
  
- <img width="1169" height="701" alt="image" src="https://github.com/user-attachments/assets/129d9690-8d67-42cc-bd72-bf79d53f34cd" />
+ <img width="1020" height="870" alt="Screenshot 2026-02-19 161018" src="https://github.com/user-attachments/assets/cf3f3c4d-6679-4dd8-938a-8968a1829fb1" />
+
 
  
 ## Result :
